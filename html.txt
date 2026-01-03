@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Faizan - YouTube Intro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My YouTube Intro</h1>
+    </header>
+
+    <section class="intro">
+        <img src="myphoto.jpg" alt="Faizan Photo" class="profile-pic">
+        <h2>Hi, I'm Faizan</h2>
+        <p>I create content about technology, learning, and creativity. 
+           Subscribe to my channel for tutorials, tips, and fun projects!</p>
+        <a href="https://www.youtube.com/@YourChannelLink" target="_blank" class="btn">Visit My YouTube</a>
+    </section>
+
+    <!-- Social Media Links -->
+    <section class="social">
+        <h2>Connect with Me</h2>
+        <a href="https://www.instagram.com/YourInstagram" target="_blank">Instagram</a> |
+        <a href="https://twitter.com/YourTwitter" target="_blank">Twitter</a> |
+        <a href="https://www.facebook.com/YourFacebook" target="_blank">Facebook</a>
+    </section>
+
+    <!-- Skills Section -->
+    <section class="skills">
+        <h2>My Skills</h2>
+        <ul>
+            <li>Video Editing 🎬</li>
+            <li>Graphic Design 🎨</li>
+            <li>Tech Tutorials 💻</li>
+        </ul>
+    </section>
+
+    <!-- Contact Form -->
+    <section class="contact">
+        <h2>Contact Me</h2>
+        <form>
+            <input type="text" placeholder="Your Name" required><br><br>
+            <input type="email" placeholder="Your Email" required><br><br>
+            <textarea placeholder="Your Message" required></textarea><br><br>
+            <button type="submit">Send</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>© 2026 Faizan | YouTube Intro Page</p>
+    </footer>
+</body>
+</html>
